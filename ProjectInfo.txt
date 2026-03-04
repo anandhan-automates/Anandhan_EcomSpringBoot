@@ -1,0 +1,16 @@
+Personal Project
+Full-Stack E-Commerce Application with Layered Architecture (Spring Boot + React)
+•	Developed full-stack E-Commerce application using Spring Boot (Backend) and React JS (Frontend).
+•	Designed RESTful APIs for secure and efficient client-server communication.
+•	Integrated PostgreSQL using Spring Data JPA (ORM) to reduce manual SQL usage.
+•	Implemented DTO pattern to maintain clean separation between Controller, Service, and Repository layers.
+•	Applied Spring AOP for logging cross-cutting concerns.
+•	Followed layered architecture principles for scalability and maintainability.
+•	Used Lombok to reduce boilerplate code.
+•	Tested APIs using Postman.
+•	Managed source code using Git and GitHub.
+Currently implementing:
+•	Spring Security
+•	JWT Authentication
+•	OAuth2 Authorization
+•	Planning migration to Microservices architecture
